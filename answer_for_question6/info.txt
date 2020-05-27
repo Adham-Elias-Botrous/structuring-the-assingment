@@ -1,0 +1,13 @@
+Klippa:
+ApiURL: https://custom-ocr.klippa.com/api/v1
+This is your API key: sLiopG4bfDH6wcIZxBjZk85Z9DIiUK7G
+
+The key can also be provided in the request query as ?X-Auth-Key=key
+
+fullApiURL: https://custom-ocr.klippa.com/api/v1?X-Auth-Key=sLiopG4bfDH6wcIZxBjZk85Z9DIiUK7G
+
+we need a photo as binary !!!
+
+picPath: C:\tutorial-projects\klippa\klippa_assignment\test_pic.jpg
+
+
